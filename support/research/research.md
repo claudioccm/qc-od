@@ -16,6 +16,6 @@
 ###List View
 
 We need a clear separation for each search result.
-Data.gov has a 
+Data.gov has a confusing list.
 
-![image](/datagov-search-result.png)
+![image](https://github.com/claudioccm/qc-od/blob/master/support/research/datagov-search-result.png?raw=true)
